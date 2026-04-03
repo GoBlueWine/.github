@@ -1,5 +1,7 @@
 # GoBlueWine
 
+> Read this page in Russian: [Русская версия](README.ru.md)
+
 GoBlueWine is building a modular ecosystem around Go for writing complete products, not just isolated packages.
 
 The goal is simple: make Go comfortable for building real systems end to end, with reusable modules for application structure, model-driven development, websites, services, tooling, and higher-level developer workflows.

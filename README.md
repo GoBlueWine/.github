@@ -1,5 +1,7 @@
 # GoBlueWine
 
+> Read this README in Russian: [Русская версия](README.ru.md)
+
 This repository contains the organization profile for GoBlueWine.
 
 The main public introduction lives in [profile/README.md](profile/README.md), which is shown on the organization page.
